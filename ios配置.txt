@@ -1,0 +1,1 @@
+??<preference?name="querySchemes"?value="vcd1128v2,pay-douyin.snssdk.com,snssdksync1128,snssdk1128,douyinopensdk,douyinopensdksm,douyinsharesdk,snssdk1128bdd20,douyinv1opensdk,douyinv1opensdk"?/>
